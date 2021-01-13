@@ -384,7 +384,7 @@ body{
       }
       
       .circle-five{
-        visibility: hidden;
+        display: none;
       }
      
 
